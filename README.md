@@ -17,5 +17,6 @@ I am currently building my technical foundation to contribute to **Zulip**. I en
 
 ## Current Projects
 * [Interactive Python Quiz](https://github.com/Raushan-tryingtocode/interactive-python-quiz): A CLI game with robust input validation.
+* [Python Number Guessing Game](https://github.com/Raushan-tryingtocode/Python-Number-Guessing-Game): A simple game made using a built-in module **random**
 * Personal Expense Tracker: (In Progress) A data-driven tool for financial tracking.
 * I hope to keep improving and doing better 
