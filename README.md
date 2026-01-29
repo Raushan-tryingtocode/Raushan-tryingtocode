@@ -20,5 +20,7 @@ I am currently building my technical foundation to contribute to **Zulip**. I en
 * [Python Number Guessing Game](https://github.com/Raushan-tryingtocode/Python-Number-Guessing-Game): A simple game made using a built-in module **random**
 * [Simple timer](https://github.com/Raushan-tryingtocode/simple-timer): A simple timer built using the Time module in python
 * [Tic-tac-toe pvp](https://github.com/Raushan-tryingtocode/Tic-Tac-Toe-PvP): a player versus player tic-tac-toe game (New version with player versus AI in progress)
+* [Rock-paper-scissors Game](https://github.com/Raushan-tryingtocode/rock-paper-scissors-game): A rock-paper-scissors game made using the Random module in python.
+* 
 * Personal Expense Tracker: (In Progress) A data-driven tool for financial tracking.
 * I hope to keep improving and doing better 
