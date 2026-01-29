@@ -22,5 +22,6 @@ I am currently building my technical foundation to contribute to **Zulip**. I en
 * [Tic-tac-toe pvp](https://github.com/Raushan-tryingtocode/Tic-Tac-Toe-PvP): a player versus player tic-tac-toe game (New version with player versus AI in progress)
 * [Rock-paper-scissors Game](https://github.com/Raushan-tryingtocode/rock-paper-scissors-game): A rock-paper-scissors game made using the Random module in python.
 * [Cinema concession stand Bill generator](https://github.com/Raushan-tryingtocode/Cinema-concession-shop):It generates a detailed reciept for a concession stand.
+* [Random dice roller](https://github.com/Raushan-tryingtocode/Python-Random-Dice-roller): It rolls a random dice face everytime. It can also generate multiple randomized dice faces and give their total amount.
 * Personal Expense Tracker: (In Progress) A data-driven tool for financial tracking.
 * I hope to keep improving and doing better 
