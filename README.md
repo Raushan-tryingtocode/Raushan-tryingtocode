@@ -2,14 +2,15 @@
 
 I am an aspiring Software Engineer focused on mastering **Python** and contributing to impactful Open Source projects.
 
-## My Journey to Outreachy 2026 / GSoC
-I am currently building my technical foundation to contribute to **Zulip**. I enjoy solving logical puzzles and building tools that make data management easier.
+## 🎯 Road to Outreachy / GSoC 2026
 
-## Currently Learning
-1.**Language:** Python (Advanced Data Structures & OOP)
-2.**Frontend** HTML and CSS 
-3.**Frameworks:** Getting started with Django
-4.**Tools:** Git, GitHub Workflow, and CLI development
+I’m a passionate developer currently focused on contributing to production-grade codebases. My goal is to leverage my background in Python and web technologies to solve real-world problems in the open-source community. Currently building, breaking, and fixing things in the lead-up to the 2026 internship cycle.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ##  Goals for 2026-2027
 1.Become a consistent contributor to the **Zulip** community.
