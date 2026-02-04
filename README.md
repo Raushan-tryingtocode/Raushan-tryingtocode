@@ -7,8 +7,9 @@ I am currently building my technical foundation to contribute to **Zulip**. I en
 
 ## Currently Learning
 1.**Language:** Python (Advanced Data Structures & OOP)
-2.**Frameworks:** Getting started with Django
-3.**Tools:** Git, GitHub Workflow, and CLI development
+2.**Frontend** HTML and CSS 
+3.**Frameworks:** Getting started with Django
+4.**Tools:** Git, GitHub Workflow, and CLI development
 
 ##  Goals for 2026-2027
 1.Become a consistent contributor to the **Zulip** community.
