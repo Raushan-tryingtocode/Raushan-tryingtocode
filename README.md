@@ -11,7 +11,6 @@ I’m a passionate developer currently focused on contributing to production-gra
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🎯 Goals for 2026-2027
@@ -20,6 +19,7 @@ I’m a passionate developer currently focused on contributing to production-gra
 3.Build a portfolio of robust, clean, and well-documented technical applications.
 
 ## Current Projects
+* [Pick-Your Poison](https://github.com/Raushan-tryingtocode/Pick-your-poison): My First frontend project.
 * [Interactive Python Quiz](https://github.com/Raushan-tryingtocode/interactive-python-quiz): A CLI game with robust input validation.
 * [Python Number Guessing Game](https://github.com/Raushan-tryingtocode/Python-Number-Guessing-Game): A simple game made using a built-in module **random**
 * [Simple timer](https://github.com/Raushan-tryingtocode/simple-timer): A simple timer built using the Time module in python
