@@ -7,7 +7,6 @@ I am an aspiring Software Engineer focused on mastering **Python** and contribut
 I’m a passionate developer currently focused on contributing to production-grade codebases. My goal is to leverage my background in Python and web technologies to solve real-world problems in the open-source community. Currently building, breaking, and fixing things in the lead-up to the 2026 internship cycle.
 
 ### 🧰 Tech Stack
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,6 +18,7 @@ I’m a passionate developer currently focused on contributing to production-gra
 3.Build a portfolio of robust, clean, and well-documented technical applications.
 
 ## Current Projects
+* [Portfolio](https://github.com/Raushan-tryingtocode/Raushan-portfolio): Personal portfolio madu usinf HTML% and CSS3.
 * [Pick-Your Poison](https://github.com/Raushan-tryingtocode/Pick-your-poison): My First frontend project.
 * [Interactive Python Quiz](https://github.com/Raushan-tryingtocode/interactive-python-quiz): A CLI game with robust input validation.
 * [Python Number Guessing Game](https://github.com/Raushan-tryingtocode/Python-Number-Guessing-Game): A simple game made using a built-in module **random**
