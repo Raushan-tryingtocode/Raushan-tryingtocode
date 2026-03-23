@@ -2,7 +2,7 @@
 
 I am an aspiring Software Engineer focused on mastering **Python** and contributing to impactful Open Source projects.
 
-## 🎯 Road to Outreachy / GSoC 2026
+## 🎯 Road to GSoC 2026
 
 I’m a passionate developer currently focused on contributing to production-grade codebases. My goal is to leverage my background in Python and web technologies to solve real-world problems in the open-source community. Currently building, breaking, and fixing things in the lead-up to the 2026 internship cycle.
 
@@ -15,7 +15,7 @@ I’m a passionate developer currently focused on contributing to production-gra
 
 ## 🎯 Goals for 2026-2027
 1.Become a consistent open-source contributor .
-2.Successfully participate in **Outreachy** or **Google Summer of Code**.
+2.Successfully participate in **Google Summer of Code**.
 3.Build a portfolio of robust, clean, and well-documented technical applications.
 
 ## Current Projects
