@@ -12,6 +12,7 @@ I'm a passionate developer currently focused on contributing to production-grade
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Gerrit](https://img.shields.io/badge/gerrit-%23EEEEEE.svg?style=for-the-badge&logo=gerrit&logoColor=black)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SPARQL](https://img.shields.io/badge/sparql-%230C4B8B.svg?style=for-the-badge&logo=semantic-web&logoColor=white)
