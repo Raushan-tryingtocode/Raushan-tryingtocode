@@ -19,7 +19,7 @@ I'm a passionate developer currently focused on contributing to production-grade
 
 ## 🎯 Goals for 2026-2027
 1. Become a consistent open-source contributor.
-2. Successfully participate in **Google Summer of Code**.
+2. Successfully participate in **Google Summer of Code** and **Major league Hacking**.
 3. Build a portfolio of robust, clean, and well-documented technical applications.
 
 ## Current Projects
