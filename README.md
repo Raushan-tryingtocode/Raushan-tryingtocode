@@ -4,7 +4,7 @@ I am an aspiring Software Engineer focused on mastering **Python** and contribut
 ## 🎯 Road to GSoC 2026
 I'm a passionate developer currently focused on contributing to production-grade codebases. My goal is to leverage my background in Python and web technologies to solve real-world problems in the open-source community. Currently building, breaking, and fixing things in the lead-up to the 2026 internship cycle.
 
-> 🎉 **Update:** I have officially submitted my proposal for **Google Summer of Code 2026**! Excited for what's ahead.
+> 🎉 **Update:** I have officially submitted my proposal for **Google Summer of Code 2026**.
 
 ### 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
