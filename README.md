@@ -24,6 +24,7 @@ I'm a passionate developer currently focused on contributing to production-grade
 
 ## Current Projects
 
+* [Portfolio](https://github.com/Raushan-tryingtocode/Raushan-portfolio): Personal portfolio made using HTML5, Tailwind CSS and Javascript.
 * [Voice to Text and Lyrics](https://github.com/Raushan-tryingtocode/Voice_to_Text_and_Lyrics): Converts voice input to text and fetches song lyrics — combines speech recognition with real-world API integration.
 * [Tic-tac-toe PvP](https://github.com/Raushan-tryingtocode/Tic-Tac-Toe-PvP): A player versus player tic-tac-toe game (New version with player versus AI in progress).
 * [Interactive Python Quiz](https://github.com/Raushan-tryingtocode/interactive-python-quiz): A CLI game with robust input validation.
@@ -33,5 +34,5 @@ I'm a passionate developer currently focused on contributing to production-grade
 * [Python Number Guessing Game](https://github.com/Raushan-tryingtocode/Python-Number-Guessing-Game): A simple game made using the built-in **random** module.
 * [Pick Your Poison](https://github.com/Raushan-tryingtocode/Pick-your-poison): My first frontend project.
 * [Simple Timer](https://github.com/Raushan-tryingtocode/simple-timer): A simple timer built using the Time module in Python.
-* [Portfolio](https://github.com/Raushan-tryingtocode/Raushan-portfolio): Personal portfolio made using HTML5 and CSS3.
+
 * Will add more project in the future
