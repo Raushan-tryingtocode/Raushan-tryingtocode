@@ -1,10 +1,9 @@
 # Hi, I'm **Raushan**! 👋
 I am an aspiring Software Engineer focused on mastering **Python** and contributing to impactful Open Source projects.
 
-## 🎯 Road to GSoC 2026
+## 🎯 Road to 2026
 I'm a passionate developer currently focused on contributing to production-grade codebases. My goal is to leverage my background in Python and web technologies to solve real-world problems in the open-source community. Currently building, breaking, and fixing things in the lead-up to the 2026 internship cycle.
 
-> 🎉 **Update:** I have officially submitted my proposal for **Google Summer of Code 2026**.
 
 ### 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -15,11 +14,10 @@ I'm a passionate developer currently focused on contributing to production-grade
 ![Gerrit](https://img.shields.io/badge/gerrit-%23EEEEEE.svg?style=for-the-badge&logo=gerrit&logoColor=black)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SPARQL](https://img.shields.io/badge/sparql-%230C4B8B.svg?style=for-the-badge&logo=semantic-web&logoColor=white)
 
 ## 🎯 Goals for 2026-2027
 1. Become a consistent open-source contributor.
-2. Successfully participate in **Google Summer of Code** and **Major league Hacking**.
+2. Successfully participate in **Major league Hacking**.
 3. Build a portfolio of robust, clean, and well-documented technical applications.
 
 ## Current Projects
