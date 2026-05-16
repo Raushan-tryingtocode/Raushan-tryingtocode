@@ -1,5 +1,5 @@
 # Hi, I'm **Raushan**! 👋
-I am an aspiring Software Engineer focused on mastering **Python** and contributing to impactful Open Source projects.
+I am an aspiring Software Engineer focused on mastering **Rust** and **Python**. While contributing to impactful Open Source projects.
 
 ## 🎯 Road to 2026
 I'm a passionate developer currently focused on contributing to production-grade codebases. My goal is to leverage my background in Python and web technologies to solve real-world problems in the open-source community. Currently building, breaking, and fixing things in the lead-up to the 2026 internship cycle.
@@ -7,6 +7,7 @@ I'm a passionate developer currently focused on contributing to production-grade
 
 ### 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,9 +17,9 @@ I'm a passionate developer currently focused on contributing to production-grade
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🎯 Goals for 2026-2027
-1. Become a consistent open-source contributor.
-2. Successfully participate in **Major league Hacking**.
-3. Build a portfolio of robust, clean, and well-documented technical applications.
+* Become a consistent open-source contributor.
+* Master Rust.
+* Create my signature app.
 
 ## Current Projects
 
