@@ -21,10 +21,13 @@ I'm a passionate developer currently focused on contributing to production-grade
 * Master Rust.
 * Create my signature app.
 
-## Current Projects
+## 🛠️ Featured Projects
 
-* [Portfolio](https://github.com/Raushan-tryingtocode/Raushan-portfolio): Personal portfolio made using HTML5, Tailwind CSS and Javascript.
-* [Voice to Text and Lyrics](https://github.com/Raushan-tryingtocode/Voice_to_Text_and_Lyrics): Converts voice input to text and fetches song lyrics — combines speech recognition with real-world API integration.
+* **[MindForge / EduRealm (In Progress)]**: A high-performance Python-Rust hybrid engine utilizing WebSockets for low-latency lecture streaming, integrated with OpenAI Whisper and Hugging Face T5 for real-time transcription and semantic synthesis.
+* **[Voice to Text and Lyrics](https://github.com/Raushan-tryingtocode/Voice_to_Text_and_Lyrics)**: An asynchronous speech recognition engine combined with real-world REST API orchestration to handle real-time data streaming and textual extraction.
+* **[Portfolio](https://github.com/Raushan-tryingtocode/Raushan-portfolio)**: A responsive digital footprint optimized for performance, engineered using Tailwind CSS, HTML5, and vanilla JavaScript.
+
+## 🧮 Core Engineering & Algorithmic Practice
 * [Tic-tac-toe PvP](https://github.com/Raushan-tryingtocode/Tic-Tac-Toe-PvP): A player versus player tic-tac-toe game (New version with player versus AI in progress).
 * [Interactive Python Quiz](https://github.com/Raushan-tryingtocode/interactive-python-quiz): A CLI game with robust input validation.
 * [Cinema Concession Stand Bill Generator](https://github.com/Raushan-tryingtocode/Cinema-concession-shop): Generates a detailed receipt for a concession stand.
