@@ -28,6 +28,7 @@ I'm a passionate developer currently focused on contributing to production-grade
 * **[Portfolio](https://github.com/Raushan-tryingtocode/Raushan-portfolio)**: A responsive digital footprint optimized for performance, engineered using Tailwind CSS, HTML5, and vanilla JavaScript.
 
 ## 🧮 Core Engineering & Algorithmic Practice
+* [Rust-number-guessing-game](https://github.com/Raushan-tryingtocode/Rust-number-guessing-game): My first project made in Rust purely through the official documentation.
 * [Tic-tac-toe PvP](https://github.com/Raushan-tryingtocode/Tic-Tac-Toe-PvP): A player versus player tic-tac-toe game (New version with player versus AI in progress).
 * [Interactive Python Quiz](https://github.com/Raushan-tryingtocode/interactive-python-quiz): A CLI game with robust input validation.
 * [Cinema Concession Stand Bill Generator](https://github.com/Raushan-tryingtocode/Cinema-concession-shop): Generates a detailed receipt for a concession stand.
