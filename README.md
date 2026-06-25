@@ -24,7 +24,7 @@ I'm a passionate developer currently focused on contributing to production-grade
 ## 🛠️ Featured Projects
 
 * **[MindForge / EduRealm (In Progress)]**: A high-performance Python-Rust hybrid engine utilizing WebSockets for low-latency lecture streaming, integrated with OpenAI Whisper and Hugging Face T5 for real-time transcription and semantic synthesis.
-* **[Voice to Text and Lyrics](https://github.com/Raushan-tryingtocode/Voice_to_Text_and_Lyrics)**: An asynchronous speech recognition engine combined with real-world REST API orchestration to handle real-time data streaming and textual extraction.
+* **[Voice](https://github.com/Raushan-tryingtocode/Voice)**: A neat and simple Python wrapper written to become a large personal project.
 * **[Portfolio](https://github.com/Raushan-tryingtocode/Raushan-portfolio)**: A responsive digital footprint optimized for performance, engineered using Tailwind CSS, HTML5, and vanilla JavaScript.
 
 ## 🧮 Core Engineering & Algorithmic Practice
