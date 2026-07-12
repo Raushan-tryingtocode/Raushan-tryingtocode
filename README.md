@@ -1,8 +1,12 @@
 # Hi, I'm **Raushan**! 👋
-I am an aspiring Software Engineer focused on mastering **Rust** and **Python**. While contributing to impactful Open Source projects.
+I am a sel-taught software engineer who is actively trying to better himself. My main goal is to master **Rust** not just learn it and actually have skills to satisfy my personal greed. I al an active contributer to Open source communities like Wikimedia and Chromium.
 
-## 🎯 Road to 2026
-I'm a passionate developer currently focused on contributing to production-grade codebases. My goal is to leverage my background in Python and web technologies to solve real-world problems in the open-source community. Currently building, breaking, and fixing things in the lead-up to the 2026 internship cycle.
+##  🎯 Road to 2026
+I am focused on contributing to production-grade codebases. I leverage my background in Python and systems engineering to solve complex problems in open-source communities. Currently, I am building, breaking, and optimizing systems in the lead-up to the 2027 internship cycle.
+
+## 🛠 Open Source Contributions
+* I have multiple merged and active contributions in **The Wikimedia Foundation** through **Gerrit**[Gerrit Dashboard](https://gerrit.wikimedia.org/r/q/owner:Raushan31+(status:open+OR+status:merged))
+* **Chromium**: Currently setting up my environment.
 
 
 ### 🧰 Tech Stack
