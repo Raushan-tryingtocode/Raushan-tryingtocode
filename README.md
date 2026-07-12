@@ -16,7 +16,7 @@ I am focused on contributing to production-grade codebases. I leverage my backgr
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🛠 Open Source Contributions
-* I have multiple merged and active contributions in **The Wikimedia Foundation** through **Gerrit**[Gerrit Dashboard](https://gerrit.wikimedia.org/r/q/owner:Raushan31+(status:open+OR+status:merged))
+* I have multiple merged and active contributions in **The Wikimedia Foundation** through **Gerrit** [Gerrit Dashboard](https://gerrit.wikimedia.org/r/q/owner:Raushan31+(status:open+OR+status:merged))
 * **Chromium**: Currently setting up my environment.
   
 ## 🎯 Goals for 2026-2027
