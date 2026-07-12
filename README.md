@@ -1,5 +1,5 @@
 # Hi, I'm **Raushan**! 👋
-I am a self-taught software engineer who is actively trying to better himself. My main goal is to master **Rust** not just learn it and actually have skills to satisfy my personal greed. I al an active contributer to Open source communities like Wikimedia and Chromium.
+I am a self-taught software engineer who is actively trying to better himself. My main goal is to master **Rust** not just learn it and actually have skills to satisfy my personal greed. I'm an active contributer to Open source communities like Wikimedia and Chromium.
 
 ##  🎯 Road to 2026
 I am focused on contributing to production-grade codebases. I leverage my background in Python and systems engineering to solve complex problems in open-source communities. Currently, I am building, breaking, and optimizing systems in the lead-up to the 2027 internship cycle.
