@@ -1,13 +1,8 @@
 # Hi, I'm **Raushan**! 👋
-I am a sel-taught software engineer who is actively trying to better himself. My main goal is to master **Rust** not just learn it and actually have skills to satisfy my personal greed. I al an active contributer to Open source communities like Wikimedia and Chromium.
+I am a self-taught software engineer who is actively trying to better himself. My main goal is to master **Rust** not just learn it and actually have skills to satisfy my personal greed. I al an active contributer to Open source communities like Wikimedia and Chromium.
 
 ##  🎯 Road to 2026
 I am focused on contributing to production-grade codebases. I leverage my background in Python and systems engineering to solve complex problems in open-source communities. Currently, I am building, breaking, and optimizing systems in the lead-up to the 2027 internship cycle.
-
-## 🛠 Open Source Contributions
-* I have multiple merged and active contributions in **The Wikimedia Foundation** through **Gerrit**[Gerrit Dashboard](https://gerrit.wikimedia.org/r/q/owner:Raushan31+(status:open+OR+status:merged))
-* **Chromium**: Currently setting up my environment.
-
 
 ### 🧰 Tech Stack
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -20,6 +15,10 @@ I am focused on contributing to production-grade codebases. I leverage my backgr
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## 🛠 Open Source Contributions
+* I have multiple merged and active contributions in **The Wikimedia Foundation** through **Gerrit**[Gerrit Dashboard](https://gerrit.wikimedia.org/r/q/owner:Raushan31+(status:open+OR+status:merged))
+* **Chromium**: Currently setting up my environment.
+  
 ## 🎯 Goals for 2026-2027
 * Become a consistent open-source contributor.
 * Master Rust.
