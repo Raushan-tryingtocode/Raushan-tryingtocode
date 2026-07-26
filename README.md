@@ -1,10 +1,30 @@
-# Hi, I'm **Raushan**! 👋
-I am a self-taught software engineer who is actively trying to better himself. My main goal is to master **Rust** not just learn it and actually have skills to satisfy my personal greed. I'm an active contributer to Open source communities like Wikimedia and Chromium.
+<div align="center">
 
-##  🎯 Road to 2026
-I am focused on contributing to production-grade codebases. I leverage my background in Python and systems engineering to solve complex problems in open-source communities. Currently, I am building, breaking, and optimizing systems in the lead-up to the 2027 internship cycle.
+```text
+    __  ______  __  ______    ____  _______   __
+   /  |/  / __ \/ / / / __ \  / __ \/ ____/ | / /
+  / /|_/ / /_/ / /_/ / / / / / / / / __/ /  |/ / 
+ / /  / / _, _/ __  / /_/ / / /_/ / /___/ /|  /  
+/_/  /_/_/ |_/_/ /_/\____(_)____/_____/_/ |_/   
+```
 
-### 🧰 Tech Stack
+# Hi, I'm Raushan 👋
+**Systems Programmer & Open Source Engineer**
+
+Self-taught engineer on a mission to *master* Rust — not just learn it — while shipping production code into massive open-source codebases like **Chromium** and **Wikimedia**.
+
+</div>
+
+---
+
+## 🎯 Road to 2026
+
+Focused on contributing to production-grade codebases, leveraging a background in Python and systems engineering to solve real problems in open source. Currently building, breaking, and optimizing systems in the lead-up to the 2027 internship cycle.
+
+---
+
+## 🧰 Tech Stack
+
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -15,30 +35,61 @@ I am focused on contributing to production-grade codebases. I leverage my backgr
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
+
 ## 🛠 Open Source Contributions
-* I have multiple merged and active contributions in **The Wikimedia Foundation** through **Gerrit** [Gerrit Dashboard](https://gerrit.wikimedia.org/r/q/owner:Raushan31+(status:open+OR+status:merged))
-* **Chromium**: Currently setting up my environment.
-  
-## 🎯 Goals for 2026-2027
-* Become a consistent open-source contributor.
-* Master Rust.
-* Create my signature app.
 
-## 🛠️ Featured Projects
+| Organization | Status |
+|---|---|
+| **Wikimedia Foundation** | Multiple merged and active contributions via Gerrit → [Gerrit Dashboard ↗](https://gerrit.wikimedia.org/r/q/owner:Raushan31+(status:open+OR+status:merged)) |
+| **Chromium** | Currently setting up environment |
 
-* **[MindForge / EduRealm (In Progress)]**: A high-performance Python-Rust hybrid engine utilizing WebSockets for low-latency lecture streaming, integrated with OpenAI Whisper and Hugging Face T5 for real-time transcription and semantic synthesis.
-* **[Voice](https://github.com/Raushan-tryingtocode/Voice)**: A neat and simple Python wrapper written to become a large personal project.
-* **[Portfolio](https://github.com/Raushan-tryingtocode/Raushan-portfolio)**: A responsive digital footprint optimized for performance, engineered using Tailwind CSS, HTML5, and vanilla JavaScript.
+---
+
+## 🚀 Featured Project
+
+### 🦀 [Rustdoc_assist](https://github.com/Raushan-tryingtocode/rustdoc-assist)
+*Async RAG Search Engine*
+- Async RAG engine built with Tokio and Axum to parse and serve 10,000+ local Rust documentation files.
+- Sub-20ms query latency, powered by modular vector embedding pipelines.
+
+---
+
+## 🛠️ Core Projects repositories
+
+- **[Voice](https://github.com/Raushan-tryingtocode/Voice)** — A neat and simple Python wrapper written to become a large personal project.
+- **[Portfolio](https://github.com/Raushan-tryingtocode/Raushan-portfolio)** — A responsive digital footprint optimized for performance, built with Tailwind CSS, HTML5, and vanilla JavaScript.
+
+---
 
 ## 🧮 Core Engineering & Algorithmic Practice
-* [Rust-number-guessing-game](https://github.com/Raushan-tryingtocode/Rust-number-guessing-game): My first project made in Rust purely through the official documentation.
-* [Tic-tac-toe PvP](https://github.com/Raushan-tryingtocode/Tic-Tac-Toe-PvP): A player versus player tic-tac-toe game (New version with player versus AI in progress).
-* [Interactive Python Quiz](https://github.com/Raushan-tryingtocode/interactive-python-quiz): A CLI game with robust input validation.
-* [Cinema Concession Stand Bill Generator](https://github.com/Raushan-tryingtocode/Cinema-concession-shop): Generates a detailed receipt for a concession stand.
-* [Random Dice Roller](https://github.com/Raushan-tryingtocode/Python-Random-Dice-roller): Rolls a random dice face every time. Can also generate multiple randomised dice faces and give their total amount.
-* [Rock-Paper-Scissors Game](https://github.com/Raushan-tryingtocode/rock-paper-scissors-game): A rock-paper-scissors game made using the Random module in Python.
-* [Python Number Guessing Game](https://github.com/Raushan-tryingtocode/Python-Number-Guessing-Game): A simple game made using the built-in **random** module.
-* [Pick Your Poison](https://github.com/Raushan-tryingtocode/Pick-your-poison): My first frontend project.
-* [Simple Timer](https://github.com/Raushan-tryingtocode/simple-timer): A simple timer built using the Time module in Python.
 
-* Will add more project in the future
+| Project | Description |
+|---|---|
+| 🦀 [Rust Number Guessing Game](https://github.com/Raushan-tryingtocode/Rust-number-guessing-game) | First project made in Rust, built purely from the official docs |
+| ❌ [Tic-Tac-Toe PvP](https://github.com/Raushan-tryingtocode/Tic-Tac-Toe-PvP) | Player-vs-player game (PvAI version in progress) |
+| 🐍 [Interactive Python Quiz](https://github.com/Raushan-tryingtocode/interactive-python-quiz) | CLI game with robust input validation |
+| 🎟️ [Cinema Concession Stand Bill Generator](https://github.com/Raushan-tryingtocode/Cinema-concession-shop) | Generates a detailed receipt for a concession stand |
+| 🎲 [Random Dice Roller](https://github.com/Raushan-tryingtocode/Python-Random-Dice-roller) | Rolls random dice faces, with multi-dice totals |
+| ✂️ [Rock-Paper-Scissors Game](https://github.com/Raushan-tryingtocode/rock-paper-scissors-game) | Built using Python's `random` module |
+| 🎯 [Python Number Guessing Game](https://github.com/Raushan-tryingtocode/Python-Number-Guessing-Game) | Simple game built with Python's built-in `random` module |
+| 🧪 [Pick Your Poison](https://github.com/Raushan-tryingtocode/Pick-your-poison) | First frontend project |
+| ⏳ [Simple Timer](https://github.com/Raushan-tryingtocode/simple-timer) | Built using Python's `time` module |
+
+*More projects coming soon.*
+
+---
+
+## 🎯 Goals for 2026–2027
+
+- [ ] Become a consistent open-source contributor
+- [ ] Master Rust
+- [ ] Create my signature app
+
+---
+
+<div align="center">
+
+*Always shipping, always compiling.*
+
+</div>
