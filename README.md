@@ -1,13 +1,5 @@
 <div align="center">
 
-```text
-    __  ______  __  ______    ____  _______   __
-   /  |/  / __ \/ / / / __ \  / __ \/ ____/ | / /
-  / /|_/ / /_/ / /_/ / / / / / / / / __/ /  |/ / 
- / /  / / _, _/ __  / /_/ / / /_/ / /___/ /|  /  
-/_/  /_/_/ |_/_/ /_/\____(_)____/_____/_/ |_/   
-```
-
 # Hi, I'm Raushan 👋
 **Systems Programmer & Open Source Engineer**
 
@@ -42,8 +34,9 @@ Focused on contributing to production-grade codebases, leveraging a background i
 | Organization | Status |
 |---|---|
 | **Wikimedia Foundation** | Multiple merged and active contributions via Gerrit → [Gerrit Dashboard ↗](https://gerrit.wikimedia.org/r/q/owner:Raushan31+(status:open+OR+status:merged)) |
-| **Chromium** | Currently setting up environment |
-
+|---|---|
+| **Chromium** | Multiple active contributions via Gerrit → [Gerrit Dashboard ↗](https://chromium-review.googlesource.com/q/owner:raushanh31@gmail.com) |
+|---|---|
 ---
 
 ## 🚀 Featured Project
