@@ -34,9 +34,7 @@ Focused on contributing to production-grade codebases, leveraging a background i
 | Organization | Status |
 |---|---|
 | **Wikimedia Foundation** | Multiple merged and active contributions via Gerrit → [Gerrit Dashboard ↗](https://gerrit.wikimedia.org/r/q/owner:Raushan31+(status:open+OR+status:merged)) |
-|---|---|
 | **Chromium** | Multiple active contributions via Gerrit → [Gerrit Dashboard ↗](https://chromium-review.googlesource.com/q/owner:raushanh31@gmail.com) |
-|---|---|
 ---
 
 ## 🚀 Featured Project
